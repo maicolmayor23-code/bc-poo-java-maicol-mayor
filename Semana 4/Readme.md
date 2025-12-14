@@ -25,16 +25,16 @@ La solución se basa en una clase padre (`Benefits`) que define atributos y comp
 
 ## 📂 Archivos Entregados
 
-- [`Benefits.java`](./src/co.edu.sena4/Benefits.java)  
+- [`Benefits.java`](./src/co/edu/sena4/Benefits.java)  
   Clase base que representa un beneficio general, con atributos y métodos comunes.
 
-- [`RegisteredCustomerBenefit.java`](./src/co.edu.sena4/RegisteredCustomerBenefit.java)  
+- [`RegisteredCustomerBenefit.java`](./src/co/edu/sena4/RegisteredCustomerBenefit.java)  
   Clase que representa beneficios exclusivos para clientes inscritos.
 
-- [`SeasonalBenefit.java`](./src/co.edu.sena4/SeasonalBenefit.java)  
+- [`SeasonalBenefit.java`](./src/co/edu/sena4/SeasonalBenefit.java)  
   Clase que representa beneficios aplicables únicamente en temporadas especiales.
 
-- [`Main.java`](./src/co.edu.sena4/Main4.java)  
+- [`Main.java`](./src/co/edu/sena4/Main4.java)  
   Programa principal que demuestra el uso de polimorfismo mediante un arreglo de tipo `Benefits`.
 
 ---
