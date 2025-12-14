@@ -33,9 +33,6 @@ El programa de demostración (`Main5.java`) muestra la ejecución de estos conce
 - [`SistemaDeTienda.java`](./src/co/edu/sena5/SistemaDeTienda.java)  
   Sistema que administra los beneficios de la tienda. Contiene métodos polimórficos para agregar, mostrar y aplicar beneficios sobre precios de productos.
 
-- [`DeporteTotal.java`](./src/co/edu/sena1/DeporteTotal.java)  
-  Clase que representa la tienda física, con atributos de ubicación, cantidad de vendedores y estado de apertura, además de métodos para verificar beneficios aplicables.
-
 - [`Main5.java`](./src/co/edu/sena5/Main5.java)  
   Programa principal que demuestra **polimorfismo**, **sobrecarga** y **sobrescritura** en acción. Muestra cómo se aplican los descuentos según tipo de cliente y temporada.
 
