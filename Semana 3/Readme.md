@@ -19,13 +19,13 @@ El programa de demostración (`Main3`) permite verificar el correcto funcionamie
 
 ## 📂 Archivos Entregados
 
-- [`Customer.java`](./src/co.edu.sena3/Customer.java)  
+- [`Customer.java`](./src/co/edu/sena3/Customer.java)  
   Clase que representa a los clientes, mejorada y refactorizada para optimizar su funcionamiento.
 
-- [`DeporteTotal.java`](./src/co.edu.sena3/DeporteTotal.java)  
+- [`DeporteTotal.java`](./src/co/edu/sena3/DeporteTotal.java)  
   Clase que representa la tienda, con mejoras en su estructura y métodos.
 
-- [`Main.java`](./src/co.edu.sena3/Main3.java)  
+- [`Main.java`](./src/co/edu/sena3/Main3.java)  
   Programa de demostración que muestra el funcionamiento del sistema luego de las mejoras aplicadas.
 
 - [`Mejoras.md`](./Docs/Mejoras.md)  
