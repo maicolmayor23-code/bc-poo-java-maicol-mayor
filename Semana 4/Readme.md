@@ -37,6 +37,9 @@ La solución se basa en una clase padre (`Benefits`) que define atributos y comp
 - [`Main.java`](./src/co/edu/sena4/Main4.java)  
   Programa principal que demuestra el uso de polimorfismo mediante un arreglo de tipo `Benefits`.
 
+- [`Mejoras.md`](./Docs/JERARQUIA.md)  
+  Documento que describe lo implementado durante la semana.
+
 ---
 
 ## 🚀 Instrucciones de Ejecución
