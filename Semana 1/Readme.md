@@ -10,8 +10,8 @@ Se creó un cliente (`Customer`) y la tienda (`DeporteTotal`), junto con un prog
 
 ## 🎯 Objetivos Cumplidos
 
-- [x] Implementar clase principal del dominio (`Customer`)
-- [x] Implementar clase secundaria relacionada (`DeporteTotal`)
+- [x] Implementar clase principal del dominio (`DeporteTotal`)
+- [x] Implementar clase secundaria relacionada (`Customer`)
 - [x] Crear programa de demostración (`Main.java`)
 - [x] Documentar análisis del dominio (`ANALISIS.md`)
 
